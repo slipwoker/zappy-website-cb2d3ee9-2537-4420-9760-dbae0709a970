@@ -1,0 +1,96 @@
+# BEVOLT — Generative Engine Optimization Map
+
+> A business specializing in lithium battery solutions for electric and light vehicles, including panel vehicles and rickshaws. The brand serves a niche market focused on alternative and efficient energy sources for urban and commercial transportation. The product line targets operators and owners of small electric vehicles seeking reliable, high-performance lithium battery replacements.
+
+---
+
+## Pages
+
+### בית
+https://bevolt-cb2d3ee9.zappy5.app
+שדרגו את הרכב הקל או הריקשה החשמלית שלכם לסוללת ליתיום אמינה ובעלת ביצועים גבוהים. BEVOLT מביאה פתרונות אנרגיה יעילים לתחבורה עירונית. היכנסו וגלו את העתיד!
+
+### פתרונות
+https://bevolt-cb2d3ee9.zappy5.app/solutions
+מגוון סוללות ליתיום מותאמות לרכבי פאנל, ריקשות ורכבים קלים. קבלו פתרון אנרגיה מדויק שממקסם טווח נסיעה וחוסך בעלויות. בחרו את השדרוג הנכון עוד היום!
+
+### אמינות
+https://bevolt-cb2d3ee9.zappy5.app/reliability
+גלו למה נהגים בוחרים ב-BEVOLT לאמינות ללא פשרות. הסוללות שלנו מתוכננות לעמוד בעומסי עבודה יומיומיים ולהבטיח שקט נפשי בכל נסיעה. לחצו לקרוא עוד!
+
+### גלריה
+https://bevolt-cb2d3ee9.zappy5.app/gallery
+הציצו לגלריית ההתקנות והלקוחות שלנו. צפו כיצד סוללות BEVOLT מניעות ריקשות, רכבי פאנל ועוד בשטח. תמונה אחת שווה אלפי קילומטרים של ביצועים!
+
+### שאלות נפוצות
+https://bevolt-cb2d3ee9.zappy5.app/faq
+יש לכם שאלות על מעבר לסוללת ליתיום לריקשה או לרכב הקל? קבלו תשובות מקצועיות וברורות שיעזרו לכם להחליט בביטחון. כנסו למדריך השאלות המלא!
+
+### צור קשר
+https://bevolt-cb2d3ee9.zappy5.app/contact
+מוכנים לעבור לאנרגיה חכמה? צרו קשר עם צוות BEVOLT עוד היום לקבלת ייעוץ, הצעת מחיר מותאמת אישית והדרכה מקצועית. אנחנו כאן כדי להניע אתכם קדימה!
+
+### Products
+https://bevolt-cb2d3ee9.zappy5.app/products
+המוצרים שלנו - BEVOLT
+
+### Product Detail
+https://bevolt-cb2d3ee9.zappy5.app/product/:slug
+פרטי המוצר - BEVOLT
+
+### Category
+https://bevolt-cb2d3ee9.zappy5.app/category/:slug
+מוצרים - BEVOLT
+
+### תודה רבה | BEVOLT
+https://bevolt-cb2d3ee9.zappy5.app/thank-you
+תודה על פנייתך ל-BEVOLT. הודעתך התקבלה בהצלחה ונציג מטעמנו יחזור אליך בהקדם.
+
+## Legal & Policy
+
+### Privacy Policy
+https://bevolt-cb2d3ee9.zappy5.app/privacy
+Information about how user data is collected, stored, and protected.
+
+### Terms & Conditions
+https://bevolt-cb2d3ee9.zappy5.app/terms
+Legal terms describing service usage, rights, and policies.
+
+### Accessibility Statement
+https://bevolt-cb2d3ee9.zappy5.app/accessibility
+Information about WCAG compliance and accessibility features.
+
+---
+
+## Products
+
+_No products are currently configured._
+
+---
+
+# Business Context (for LLM understanding)
+
+## About BEVOLT
+A business specializing in lithium battery solutions for electric and light vehicles, including panel vehicles and rickshaws. The brand serves a niche market focused on alternative and efficient energy sources for urban and commercial transportation. The product line targets operators and owners of small electric vehicles seeking reliable, high-performance lithium battery replacements.
+
+## Target Audience
+- בעלי רכבים פנולים וריקשות
+- בעלי רכבים פנולים
+- מפעילי ריקשות
+- מנהלי ציי רכב
+- מושבניקים וקיבוצניקים
+- אנשים שגרים במושבים
+- עיריות מועצות מפעלים
+
+## Industry
+Automotive Batteries & Energy Storage
+
+---
+
+# Machine-readable feeds
+
+- Sitemap (XML): https://bevolt-cb2d3ee9.zappy5.app/sitemap.xml
+- Robots: https://bevolt-cb2d3ee9.zappy5.app/robots.txt
+- Flattened page text (for LLMs): https://bevolt-cb2d3ee9.zappy5.app/llms-full.txt
+- Products (JSON): https://bevolt-cb2d3ee9.zappy5.app/products.json
+- Products (Google Merchant RSS): https://bevolt-cb2d3ee9.zappy5.app/product-feed.xml
