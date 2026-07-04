@@ -7,57 +7,57 @@
 ## Pages
 
 ### בית
-https://bevolt-cb2d3ee9.zappy5.app
+https://example.com
 שדרגו את הרכב הקל או הריקשה החשמלית שלכם לסוללת ליתיום אמינה ובעלת ביצועים גבוהים. BEVOLT מביאה פתרונות אנרגיה יעילים לתחבורה עירונית. היכנסו וגלו את העתיד!
 
 ### פתרונות
-https://bevolt-cb2d3ee9.zappy5.app/solutions
+https://example.com/solutions
 מגוון סוללות ליתיום מותאמות לרכבי פאנל, ריקשות ורכבים קלים. קבלו פתרון אנרגיה מדויק שממקסם טווח נסיעה וחוסך בעלויות. בחרו את השדרוג הנכון עוד היום!
 
 ### אמינות
-https://bevolt-cb2d3ee9.zappy5.app/reliability
+https://example.com/reliability
 גלו למה נהגים בוחרים ב-BEVOLT לאמינות ללא פשרות. הסוללות שלנו מתוכננות לעמוד בעומסי עבודה יומיומיים ולהבטיח שקט נפשי בכל נסיעה. לחצו לקרוא עוד!
 
 ### גלריה
-https://bevolt-cb2d3ee9.zappy5.app/gallery
+https://example.com/gallery
 הציצו לגלריית ההתקנות והלקוחות שלנו. צפו כיצד סוללות BEVOLT מניעות ריקשות, רכבי פאנל ועוד בשטח. תמונה אחת שווה אלפי קילומטרים של ביצועים!
 
 ### שאלות נפוצות
-https://bevolt-cb2d3ee9.zappy5.app/faq
+https://example.com/faq
 יש לכם שאלות על מעבר לסוללת ליתיום לריקשה או לרכב הקל? קבלו תשובות מקצועיות וברורות שיעזרו לכם להחליט בביטחון. כנסו למדריך השאלות המלא!
 
 ### צור קשר
-https://bevolt-cb2d3ee9.zappy5.app/contact
+https://example.com/contact
 מוכנים לעבור לאנרגיה חכמה? צרו קשר עם צוות BEVOLT עוד היום לקבלת ייעוץ, הצעת מחיר מותאמת אישית והדרכה מקצועית. אנחנו כאן כדי להניע אתכם קדימה!
 
 ### Products
-https://bevolt-cb2d3ee9.zappy5.app/products
+https://example.com/products
 המוצרים שלנו - BEVOLT
 
 ### Product Detail
-https://bevolt-cb2d3ee9.zappy5.app/product/:slug
+https://example.com/product/:slug
 פרטי המוצר - BEVOLT
 
 ### Category
-https://bevolt-cb2d3ee9.zappy5.app/category/:slug
+https://example.com/category/:slug
 מוצרים - BEVOLT
 
 ### תודה רבה | BEVOLT
-https://bevolt-cb2d3ee9.zappy5.app/thank-you
+https://example.com/thank-you
 תודה על פנייתך ל-BEVOLT. הודעתך התקבלה בהצלחה ונציג מטעמנו יחזור אליך בהקדם.
 
 ## Legal & Policy
 
 ### Privacy Policy
-https://bevolt-cb2d3ee9.zappy5.app/privacy
+https://example.com/privacy
 Information about how user data is collected, stored, and protected.
 
 ### Terms & Conditions
-https://bevolt-cb2d3ee9.zappy5.app/terms
+https://example.com/terms
 Legal terms describing service usage, rights, and policies.
 
 ### Accessibility Statement
-https://bevolt-cb2d3ee9.zappy5.app/accessibility
+https://example.com/accessibility
 Information about WCAG compliance and accessibility features.
 
 ---
@@ -89,8 +89,8 @@ Automotive Batteries & Energy Storage
 
 # Machine-readable feeds
 
-- Sitemap (XML): https://bevolt-cb2d3ee9.zappy5.app/sitemap.xml
-- Robots: https://bevolt-cb2d3ee9.zappy5.app/robots.txt
-- Flattened page text (for LLMs): https://bevolt-cb2d3ee9.zappy5.app/llms-full.txt
-- Products (JSON): https://bevolt-cb2d3ee9.zappy5.app/products.json
-- Products (Google Merchant RSS): https://bevolt-cb2d3ee9.zappy5.app/product-feed.xml
+- Sitemap (XML): https://example.com/sitemap.xml
+- Robots: https://example.com/robots.txt
+- Flattened page text (for LLMs): https://example.com/llms-full.txt
+- Products (JSON): https://example.com/products.json
+- Products (Google Merchant RSS): https://example.com/product-feed.xml
